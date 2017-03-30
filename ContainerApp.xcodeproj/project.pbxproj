@@ -286,7 +286,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cg.dcx.ContainerAppAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "849ae02f-b795-47d5-bda7-e9d34b2ed6b7";
+				PROVISIONING_PROFILE = "9a875e0f-c94c-410d-be4d-00c48a6c6a5c";
 				PROVISIONING_PROFILE_SPECIFIER = "DCX iOS COE All Capabilities";
 			};
 			name = Debug;
@@ -302,7 +302,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cg.dcx.ContainerAppAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "849ae02f-b795-47d5-bda7-e9d34b2ed6b7";
+				PROVISIONING_PROFILE = "9a875e0f-c94c-410d-be4d-00c48a6c6a5c";
 				PROVISIONING_PROFILE_SPECIFIER = "DCX iOS COE All Capabilities";
 			};
 			name = Release;
