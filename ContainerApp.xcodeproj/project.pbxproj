@@ -115,7 +115,7 @@
 				TargetAttributes = {
 					E50D06731E715D5900DC862C = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = CYLT5M3LAJ;
+						DevelopmentTeam = 8355E3N9WY;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -279,15 +279,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Manisha Rao (KFN7CVSBEZ)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Manisha Rao (KFN7CVSBEZ)";
-				DEVELOPMENT_TEAM = CYLT5M3LAJ;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Capgemini U.S. LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Capgemini U.S. LLC";
+				DEVELOPMENT_TEAM = 8355E3N9WY;
 				INFOPLIST_FILE = ContainerApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.cg.dcx.ContainerAppAgent;
+				PRODUCT_BUNDLE_IDENTIFIER = com.capgemini.ContainerAppAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9a875e0f-c94c-410d-be4d-00c48a6c6a5c";
-				PROVISIONING_PROFILE_SPECIFIER = "DCX iOS COE All Capabilities";
+				PROVISIONING_PROFILE = "2f857b40-c642-4342-ae8e-0ed08db2872d";
+				PROVISIONING_PROFILE_SPECIFIER = "Capgemini Enterprise Applications 2017";
 			};
 			name = Debug;
 		};
@@ -295,15 +295,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Manisha Rao (KFN7CVSBEZ)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Manisha Rao (KFN7CVSBEZ)";
-				DEVELOPMENT_TEAM = CYLT5M3LAJ;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Capgemini U.S. LLC";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Capgemini U.S. LLC";
+				DEVELOPMENT_TEAM = 8355E3N9WY;
 				INFOPLIST_FILE = ContainerApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.cg.dcx.ContainerAppAgent;
+				PRODUCT_BUNDLE_IDENTIFIER = com.capgemini.ContainerAppAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9a875e0f-c94c-410d-be4d-00c48a6c6a5c";
-				PROVISIONING_PROFILE_SPECIFIER = "DCX iOS COE All Capabilities";
+				PROVISIONING_PROFILE = "2f857b40-c642-4342-ae8e-0ed08db2872d";
+				PROVISIONING_PROFILE_SPECIFIER = "Capgemini Enterprise Applications 2017";
 			};
 			name = Release;
 		};
